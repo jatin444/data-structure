@@ -11,3 +11,6 @@ insertion and deletion in queue.
 insertion ,deletion,traversal in stack.
 insertion, deletion, traversal in singly link list.
 insertion in doubly link list.
+bubble sorting
+selection sorting
+insertion sorting
