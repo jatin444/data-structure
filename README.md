@@ -1,4 +1,4 @@
-Name- Jatin jasaiwal
+Name- Jatin Jasaiwal
 
 Roll no.- 2017techcse004
 
@@ -14,6 +14,8 @@ finding duplicate in an array.
 
 insertion and deletion in queue.
 
+insertion, deletion in circular queue
+
 insertion ,deletion,traversal in stack.
 
 insertion, deletion, traversal in singly link list.
@@ -25,3 +27,5 @@ bubble sorting
 selection sorting
 
 insertion sorting
+
+
